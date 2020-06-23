@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/buses2.dir/buses2.cpp.o  -o buses2 

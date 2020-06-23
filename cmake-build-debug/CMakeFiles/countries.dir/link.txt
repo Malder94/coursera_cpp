@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/countries.dir/countries.cpp.o  -o countries 

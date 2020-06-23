@@ -1,0 +1,11 @@
+/home/alexey/repos/coursera/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/alexey/repos/coursera/cmake-build-debug/CMakeFiles/buses1.dir
+/home/alexey/repos/coursera/cmake-build-debug/CMakeFiles/countries.dir
+/home/alexey/repos/coursera/cmake-build-debug/CMakeFiles/main.dir
+/home/alexey/repos/coursera/cmake-build-debug/CMakeFiles/buses2.dir
+/home/alexey/repos/coursera/cmake-build-debug/CMakeFiles/annagrams.dir
+/home/alexey/repos/coursera/cmake-build-debug/CMakeFiles/unique.dir
+/home/alexey/repos/coursera/cmake-build-debug/CMakeFiles/map_values.dir
+/home/alexey/repos/coursera/cmake-build-debug/CMakeFiles/buses3.dir
+/home/alexey/repos/coursera/cmake-build-debug/CMakeFiles/buses33.dir
+/home/alexey/repos/coursera/cmake-build-debug/CMakeFiles/edit_cache.dir

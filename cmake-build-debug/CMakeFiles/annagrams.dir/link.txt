@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/annagrams.dir/annagrams.cpp.o  -o annagrams 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/buses33.dir/buses33.cpp.o  -o buses33 
